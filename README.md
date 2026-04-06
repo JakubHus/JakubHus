@@ -16,7 +16,7 @@ I'm a third-year student from Kraków passionate about **data analysis, machine 
 Deep learning model for binary classification of brain tumors from MRI scans.
 `Python` `TensorFlow` `Keras` `OpenCV` `scikit-learn`
 
-### 🌍 [Climate Change Analysis – Southern Białystok County (2014–2025)](https://github.com/JakubHus)
+### 🌍 [Climate Change Analysis – Southern Białystok County (2014–2025)](https://github.com/JakubHus/climate-change-analysis)
 ERA5 climate data analysis: temperature trends, seasonal decomposition, extreme events and variable correlations.
 `Python` `Pandas` `SciPy` `Statsmodels` `xarray` `Matplotlib` `Seaborn`
 
